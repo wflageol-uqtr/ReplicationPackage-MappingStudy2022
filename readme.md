@@ -5,7 +5,7 @@ This is a replication package containing the raw data and query used in the pape
 
 ### Raw data
 
-You can find an Excel spreadsheet of the raw data at this link: [LINK]
+You can find an Excel spreadsheet of the raw data in the [data.xlsx](https://github.com/wflageol-uqtr/ReplicationPackage-MappingStudy2022/blob/main/data.xlsx) file above.
 
 The spreadsheet has different pages for different views of the data. Here is a summary:
 
