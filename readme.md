@@ -5,7 +5,7 @@ This is a replication package containing the raw data and query used in the pape
 
 ### Raw data
 
-You can find an Excel spreadsheet of the raw data in the [data.xlsx](https://github.com/wflageol-uqtr/ReplicationPackage-MappingStudy2022/blob/main/data.xlsx) file above.
+You can find an Excel spreadsheet of the raw data at this link: [LINK]
 
 The spreadsheet has different pages for different views of the data. Here is a summary:
 
@@ -21,4 +21,4 @@ A single query was used in our paper on the Engineering Village search engine. H
 
     ((oop OR object) AND ({design pattern} OR {design patterns} OR {anti-pattern} OR {anti-patterns} OR paradigm) AND (weakness* OR disadvantage* OR improve* OR enhance* OR refine* OR help OR better OR expand*) WN AB) NOT ((teach* OR learn* OR test* OR modeling OR automated OR automation  OR tool* OR mobile OR optimiz* OR simulation OR mining OR medical OR bio* OR hardware OR hdl OR parallel* OR api OR find* OR sql OR {pattern recognition} OR {pattern identification} OR {pattern detection} OR {object recognition} OR {object detection} OR {feature extraction} OR {computer vision} OR {pattern clustering} OR {learning (artificial intelligence)} OR {image segmentation} OR {pattern classification} OR {data mining} OR {computer aided design} OR {formal specification} OR {image classification} OR {user interfaces} OR {computer simulation} OR {internet} OR {image processing} OR {codes (symbols)} OR {image enhancement} OR {embedded systems} OR {image reconstruction} OR {cameras} OR {distributed computer systems} OR {product design} OR {artificial intelligence} OR {iterative methods} OR {neural nets} OR {neural networks} OR {object tracking} OR {genetic algorithms} OR {classification (of information)} OR {learning systems} OR {mathematical models} OR {middleware} OR {internet of things} OR {cloud computing} OR {decision making} OR {electroencephalography} OR {virtual reality} OR {risk management} OR {health care} OR {distributed object management} OR {query processing} OR {knowledge based systems}) WN KY)
     
-The results should then be filtered by date between 2000 and 2019.
+The results should then be filtered by date between 1995 and 2022.
